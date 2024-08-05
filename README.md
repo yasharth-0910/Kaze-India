@@ -1,3 +1,6 @@
+#Welcome following are the steps to run the project
+## we are currently building this project
+
 - Clone the repo
 
 ```jsx
